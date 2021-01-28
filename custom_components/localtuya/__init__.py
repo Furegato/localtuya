@@ -24,7 +24,8 @@ localtuya:
         current_temperature_dp: 3
         temperature_step:  [0.1, 0.5, 1] # Optional, default: 0.5
         hvac_mode_dp: 4
-        fan_mode_dp: 5          # Optional
+        preset_mode_dp: 5       # Optional
+        input blocking: 6       # Optional
         max_temperature_dp: 114 # Optional
         min_temperature_dp: 115 # Optional
         temperature_unit: ["celsius","fahrenheit"] # Optional, default: "celsius"
