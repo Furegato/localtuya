@@ -49,6 +49,7 @@ CONF_MAX_TEMP_DP = "max_temperature_dp"
 CONF_MIN_TEMP_DP = "min_temperature_dp"
 CONF_FAN_MODE_DP = "fan_mode_dp"
 CONF_HVAC_MODE_DP = "hvac_mode_dp"
+CONF_PRESET_MODE_DP = "preset_mode_dp"
 CONF_PRECISION = "precision"
 
 DATA_DISCOVERY = "discovery"
